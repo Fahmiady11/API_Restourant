@@ -19,21 +19,21 @@
         "idUser": 2,
         "nameUser": "Hendri Nasution",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 2,
         "text": "rasanya enak sekali"
       },
       {
         "idUser": 3,
         "nameUser": "Harahap Anji",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 1,
         "text": "rasanya enak"
       },
       {
         "idUser": 4,
         "nameUser": "Andini sukma",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 5,
         "text": "rasanya lezat sekali"
       }
     ]
@@ -51,28 +51,28 @@
         "idUser": 1,
         "nameUser": "Reza Arap",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 2,
         "text": "rasanya enak banget"
       },
       {
         "idUser": 2,
         "nameUser": "Hendri Nasution",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 4,
         "text": "rasanya enak sekali"
       },
       {
         "idUser": 3,
         "nameUser": "Harahap Anji",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 1,
         "text": "rasanya enak"
       },
       {
         "idUser": 4,
         "nameUser": "Andini sukma",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 5,
         "text": "rasanya lezat sekali"
       }
     ]
@@ -97,21 +97,21 @@
         "idUser": 2,
         "nameUser": "Hendri Nasution",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 2,
         "text": "rasanya enak sekali"
       },
       {
         "idUser": 3,
         "nameUser": "Harahap Anji",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 1,
         "text": "rasanya enak"
       },
       {
         "idUser": 4,
         "nameUser": "Andini sukma",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 4,
         "text": "rasanya lezat sekali"
       }
     ]
@@ -129,7 +129,7 @@
         "idUser": 1,
         "nameUser": "Reza Arap",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 4,
         "text": "rasanya enak banget"
       },
       {
@@ -143,14 +143,14 @@
         "idUser": 3,
         "nameUser": "Harahap Anji",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 2,
         "text": "rasanya enak"
       },
       {
         "idUser": 4,
         "nameUser": "Andini sukma",
         "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
-        "ratingUser": 3,
+        "ratingUser": 1,
         "text": "rasanya lezat sekali"
       }
     ]
