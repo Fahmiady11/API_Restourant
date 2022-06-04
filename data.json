@@ -80,7 +80,7 @@
   {
     "id": 3,
     "nameResto": "Restourant Korean",
-    "image": "",
+    "image": "https://i.ytimg.com/vi/munSJEVrfrw/hqdefault.jpg",
     "star": 3,
     "location": "Surabaya",
     "price": "30000",
@@ -89,7 +89,7 @@
       {
         "idUser": 1,
         "nameUser": "Reza Arap",
-        "imageUser": "https://i.ytimg.com/vi/munSJEVrfrw/hqdefault.jpg",
+        "imageUser": "https://awsimages.detik.net.id/community/media/visual/2020/08/13/avatar-the-last-airbender.webp?w=700&q=90",
         "ratingUser": 3,
         "text": "rasanya enak banget"
       },
